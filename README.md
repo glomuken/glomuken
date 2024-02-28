@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glomuken
-- 👀 I’m interested in trying about new thimgs and maybe robotics
+- 👀 I’m interested in trying about new thimgs 
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me Linkedin Gloria Mukendi
